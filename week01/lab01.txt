@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 safitri.difa StafCS 4096 Feb 16 10:32 .
+drwx--x--x  3 safitri.difa StafCS 4096 Feb 13 18:26 ..
+drwxr-xr-x  8 safitri.difa StafCS 4096 Feb 14 12:35 .git
+drwxr-xr-x  2 safitri.difa StafCS 4096 Feb 14 12:21 key
+-rw-r--r--  1 safitri.difa StafCS    0 Feb 16 10:32 lab01.txt
+drwxr-xr-x  2 safitri.difa StafCS 4096 Feb 14 12:21 log
+-rw-r--r--  1 safitri.difa StafCS    7 Feb 13 18:20 README.md
+drwxr-xr-x  2 safitri.difa StafCS 4096 Feb 14 12:27 sandbox
+drwxr-xr-x  2 safitri.difa StafCS 4096 Feb 14 12:34 week00
+drwxr-xr-x  2 safitri.difa StafCS 4096 Feb 14 12:17 week01
+drwxr-xr-x  2 safitri.difa StafCS 4096 Feb 14 12:18 week02
+drwxr-xr-x  2 safitri.difa StafCS 4096 Feb 14 12:19 week03
+drwxr-xr-x  2 safitri.difa StafCS 4096 Feb 14 12:19 week04
+drwxr-xr-x  2 safitri.difa StafCS 4096 Feb 14 12:19 week05
+drwxr-xr-x  2 safitri.difa StafCS 4096 Feb 14 12:19 week06
+drwxr-xr-x  2 safitri.difa StafCS 4096 Feb 14 12:20 week07
+drwxr-xr-x  2 safitri.difa StafCS 4096 Feb 14 12:20 week08
+drwxr-xr-x  2 safitri.difa StafCS 4096 Feb 14 12:20 week09
+drwxr-xr-x  2 safitri.difa StafCS 4096 Feb 14 12:21 week10
+drwxr-xr-x  2 safitri.difa StafCS 4096 Feb 14 12:22 xtra
+/home/fasilkom/mahasiswa/s/safitri.difa/os171/week01
