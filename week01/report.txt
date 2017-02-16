@@ -1,0 +1,1 @@
+Lab week ini menjelaskan cara meng-clone repository. Ada perkenalan dengan git dan beberapa operasi sederhana (membuat folder, membuat file .txt, mengubah direktori). Juga mencoba CLI dan command-nya.
